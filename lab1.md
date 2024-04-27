@@ -2,7 +2,7 @@
 
 Рисунок 1 - Диаграмма прецедентов
 
-![](images/diagramm.png)
+![](images/lab1/diagramm.png)
 
 
 <table><tr><th>Раздел</th><th>Описание</th></tr>
