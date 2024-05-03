@@ -1,6 +1,8 @@
 # Создание системных диаграмм последовательностей
 ## Прецедент "Войти в игру"
 <html>
+  <head>
+  </head>
 <body style="background-color: white;">
 []!(./images/lab3/login.png#gh-dark-mode-only)
 </body>
