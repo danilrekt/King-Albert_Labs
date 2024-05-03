@@ -3,9 +3,7 @@
 <html>
   <head>
   </head>
-<body style="background-color: white;">
-  test
-</body>
+[]!(./images/lab3/login.png)
 |Действие|Нажать кнопку "Войти в игру"|
 | :- | :- |
 |Ссылки|Прецедент “Войти в игру”|
