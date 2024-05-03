@@ -1,8 +1,8 @@
 # Создание системных диаграмм последовательностей
 ## Прецедент "Войти в игру"
-![](./images/lab3/login.png#gh-dark-mode-only)
-![](./images/lab3/login.png#gh-light-mode-only)
-
+<body style="background-color: white;">
+!(./images/lab3/login.png#gh-dark-mode-only)
+</body>
 |Действие|Нажать кнопку "Войти в игру"|
 | :- | :- |
 |Ссылки|Прецедент “Войти в игру”|
