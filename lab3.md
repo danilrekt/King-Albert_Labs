@@ -4,7 +4,7 @@
   <head>
   </head>
 <body style="background-color: white;">
-[]!(./images/lab3/login.png#gh-dark-mode-only)
+  []!(./images/lab3/login.png)
 </body>
 |Действие|Нажать кнопку "Войти в игру"|
 | :- | :- |
